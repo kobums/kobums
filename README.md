@@ -59,7 +59,7 @@
 <!-- 
 ## 🤔 Github Stats
 
-[![Beomsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobums&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Beomseog's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobums&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobums&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -69,7 +69,8 @@
 
 ## 📬 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/kobums@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kobums@naver.com)
+[![Naver Badge](https://img.shields.io/badge/kobums@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kobums@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/kobums23@gmail.com-03C75A?style=flat-square&logo=Google&logoColor=white)](mailto:kobums23@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/kobums-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kobums)
 
 </div>
