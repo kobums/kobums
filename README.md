@@ -56,6 +56,7 @@
 
 <br/>
 
+<!-- 
 ## 🤔 Github Stats
 
 [![Beomsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobums&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,13 +65,12 @@
 
 <br/>
 
-<!-- 
+-->
+
 ## 📬 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/kobums@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kobums@naver.com)
 [![GitHub Badge](https://img.shields.io/badge/kobums-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kobums)
-
--->
 
 </div>
 
