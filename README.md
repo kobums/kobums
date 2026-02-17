@@ -68,7 +68,7 @@
 ## 📬 Contact
 
 [![Naver Badge](https://img.shields.io/badge/kobums@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kobums@naver.com)
-[![Gmail Badge](https://img.shields.io/badge/kobums23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kobums23@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/kobums23@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kobums23@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/kobums-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kobums)
 
 </div>
