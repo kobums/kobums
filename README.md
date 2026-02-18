@@ -13,9 +13,9 @@
 🌱 현재 **Kotlin Spring Boot** 학습 중  
 🎯 대규모 시스템 경험을 쌓을 수 있는 엔터프라이즈 취업 목표  
 
--->
-
 <br/>
+
+-->
 
 ## 🧱 Tech Stack
 
@@ -38,8 +38,8 @@
 ### DevOps / Cloud
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-<br/>
 <!--
+<br/>
 ## 🚀 Projects
 
 | 프로젝트 | 설명 | 기술 |
